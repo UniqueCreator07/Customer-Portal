@@ -1,3 +1,2 @@
 
 This is test file 1 and updated on dev branch
-Updating this file from staging branch
